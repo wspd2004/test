@@ -3,9 +3,9 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Hello World!1</h1>
+	<h1>Hello World!</h1>
 	<p>
-		It is now 111bbbbb
+		It is now 
 		<%= new java.util.Date() %></p>
 	<p>
 		You are coming from 
